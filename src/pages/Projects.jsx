@@ -203,6 +203,8 @@ function Projects() {
           </Reveal>
         </div>
       </section>
+
+    <div></div>
     </>
   );
 }
